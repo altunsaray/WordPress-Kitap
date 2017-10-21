@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	
-	/* Ana Manşet */
+	/* Ana ManÃ¾et */
 	var sure_m = 4000; 
 	var pDeger_m = 0;
 	var pToplam_m = $(".manset_list_buton li").length;
